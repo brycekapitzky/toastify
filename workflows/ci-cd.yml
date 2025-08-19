@@ -1,0 +1,9 @@
+# This file should not exist here
+# The CI/CD workflow is properly located at /.github/workflows/ci-cd.yml
+# This is a duplicate file that was created in error
+
+# Removing content - this file should be deleted
+# The proper workflow configuration is already in place at:
+# /.github/workflows/ci-cd.yml
+
+# This file exists only to prevent import errors during cleanup
